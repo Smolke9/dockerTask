@@ -2,6 +2,7 @@
 # 🐳 Docker Task 2 - Suraj Balaji Molke
 
 > Batch: 7th Feb AWS | Author: Suraj Molke
+> FortuneCloud Tech Shivaji Nagar Pune
 
 This project demonstrates various Docker concepts such as Docker volumes, networks, Dockerfile usage, and pushing images to Docker Hub.
 
@@ -164,23 +165,6 @@ Place your screenshots in a folder named `/screenshots` and reference them like 
 
 ---
 
-## 🚀 How to Push This README to GitHub
-
-### ✅ Steps
-
-```bash
-# If not yet a Git repo
-git init
-git remote add origin https://github.com/surajmolke/dockertask2.git
-
-# Add README and screenshots
-git add README.md screenshots/
-git commit -m "Add README.md with screenshots for Docker Task 2"
-git branch -M main
-git push origin main
-```
-
----
 
 ## 👨‍💻 Author
 
