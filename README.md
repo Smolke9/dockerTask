@@ -111,8 +111,7 @@ curl http://apache-server
 | `USER`       | Run as specific user |
 | `HEALTHCHECK`| Check container health |
 
-📷 **Screenshot:**  
-![Dockerfile Sample](screenshots/dockerfile-sample.png)
+
 
 ---
 
@@ -124,8 +123,7 @@ curl http://apache-server
 | Override       | Can override at runtime        | Hard to override                   |
 | Use Case       | CLI tools                      | Services/scripts always running    |
 
-📷 **Screenshot:**  
-![CMD vs ENTRYPOINT](screenshots/cmd-entrypoint.png)
+
 
 ---
 
