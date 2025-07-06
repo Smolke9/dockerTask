@@ -156,10 +156,10 @@ docker push surajmolke/pythonimage
 Place your screenshots in a folder named `/screenshots` and reference them like this:
 
 ```markdown
-![Volume Demo](screenshots/volume_demo.png)
-![Custom Network](screenshots/network_demo.png)
-![Node App](screenshots/node_app.png)
-![Python Image on Docker Hub](screenshots/dockerhub_push.png)
+![Volume Demo](screenshots/1.png)
+![Custom Network](screenshots/2.png)
+![Node App](screenshots/3.png)
+![Python Image on Docker Hub](screenshots/4.png)
 ```
 
 ---
